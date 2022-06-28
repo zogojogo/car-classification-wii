@@ -14,7 +14,7 @@ git clone https://github.com/zogojogo/car-classification-wii.git
 Go to the project directory
 
 ```bash
-cd car-classify-kris
+cd car-classify-wii
 ```
 
 Download Dependencies
